@@ -188,8 +188,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
+<a href="https://github.com/Teicheto/Nuke-Bot-GUI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Teicheto/Nuke-Bot-GUI" alt="contrib.rocks image" />
 </a>
 
 
@@ -208,7 +208,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Teicheto/Nuke-Bot-GUI](https://github.com/Teicheto/Nuke-Bot-GUI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
